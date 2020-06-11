@@ -56,7 +56,7 @@ This is a Web based event repository system to prevent paperwork involved in sto
 
 ### **Results/Working**
 
-<img src="results/login.PNG" align="left">
+<img src="results/login.PNG" align="left", width="350",height="350">
 <img src="results/table_data.PNG" align="left">
 <img src="results/table_user.PNG" align="rigt">
 <img src="results/faculty.PNG" align="left">
