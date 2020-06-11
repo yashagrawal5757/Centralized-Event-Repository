@@ -45,12 +45,21 @@ This is a Web based event repository system to prevent paperwork involved in sto
 - Run XAMPP server- MYSQL and Apache server
 - Open PHPmyadmin server and create 3 tables based off the structure given below:
 
-<img src="data_table.png" align="left">
-<img src="log_table.png" align="left">
-<img src="users_table.png" align="left">
+<img src="data_table.PNG" align="left">
+<img src="log_table.PNG" align="left">
+<img src="users_table.PNG" align="left">
 
 - Once the database is created, add few entries for each of the table in PHPmyadmin
 - Now open localhost of Apache server and run the folder that you pasted in htdocs
+
+### **Results/Working**
+
+<img src="results/login.PNG" align="left">
+<img src="results/table_data.PNG" align="left">
+<img src="results/table_user.PNG" align="rigt">
+<img src="results/faculty.PNG" align="left">
+<img src="results/filter.PNG" align="left">
+<img src="results/filter2.PNG" align="left">
 
 
 
