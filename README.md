@@ -62,9 +62,9 @@ This is a Web based event repository system to prevent paperwork involved in sto
 
 <img src="results/table_user.PNG" align="rigt">
 
-<img src="results/faculty.PNG" align="left" width="450" height="350">
+<img src="results/faculty.PNG" align="left" width="400" height="250">
 
-<img src="results/filter.PNG" align="left" width="450" height="350">
+<img src="results/filter.PNG" align="left" width="400" height="250">
 
 <img src="results/filter2.PNG" align="left" width="800" height="250">
 
